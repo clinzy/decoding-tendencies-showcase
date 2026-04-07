@@ -1,17 +1,36 @@
 {
-    "directory": "C:\\Users\\chris\\Music\\decoding-tendancies-showcase",
-    "files": [
-        "hongkong_finches.mp3",
-        "kyoto_frogs.mp3",
-        "macao_pidgeon.mp3",
-        "madeira_aquaduct_gurgle.mp3",
-        "madeira_aquaduct_roar.mp3",
-        "night_rain_frogs.mp3",
-        "plane_kick.mp3",
-        "san_fran_birds.mp3",
-        "strudel.json",
-        "suitcase_blues.mp3",
-        "summer_storm_birds.mp3",
-        "tokyo_trains.mp3"
-    ]
+  "_base":"https://raw.githubusercontent.com/clinzy/decoding-tendencies-showcase/refs/heads/main/",
+  "hongkong_finches": [
+    "hongkong_finches.mp3"
+  ],
+  "kyoto_frogs": [
+    "kyoto_frogs.mp3"
+  ],
+  "macao_pidgeon": [
+    "macao_pidgeon.mp3"
+  ],
+  "madeira_aquaduct_gurgle": [
+    "madeira_aquaduct_gurgle.mp3"
+  ],
+  "madeira_aquaduct_roar": [
+    "madeira_aquaduct_roar.mp3"
+  ],
+  "night_rain_frogs": [
+    "night_rain_frogs.mp3"
+  ],
+  "plane_kick": [
+    "plane_kick.mp3"
+  ],
+  "san_fran_birds": [
+    "san_fran_birds.mp3"
+  ],
+  "suitcase_blues": [
+    "suitcase_blues.mp3"
+  ],
+  "summer_storm_birds": [
+    "summer_storm_birds.mp3"
+  ],
+  "tokyo_trains": [
+    "tokyo_trains.mp3"
+  ]
 }
