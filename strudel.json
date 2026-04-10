@@ -28,9 +28,12 @@
     "suitcase_blues.mp3"
   ],
   "summer_storm_birds": [
-    "summer_storm_birds.mp3"
+    "summer_storm_birds.mp3",
+    "thunder.mp3"
   ],
   "tokyo_trains": [
-    "tokyo_trains.mp3"
+    "tokyo_trains.mp3",
+    "train1.mp3",
+    "train2.mp3"
   ]
 }
