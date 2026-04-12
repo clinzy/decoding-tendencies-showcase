@@ -35,5 +35,15 @@
     "tokyo_trains.mp3",
     "train1.mp3",
     "train2.mp3"
+  ],
+  "tornado_warning":[
+    "tornado_warning.mp3"
+  ],
+  "mockingbird_night":[
+    "mockingbird_night_1.mp3",
+    "mockingbird_night_2.mp3"
+  ],
+  "coyote": [
+    "coyote.mp3"
   ]
 }
